@@ -31,10 +31,6 @@ This extension helps you stay in **deep work mode**, especially if you’re grin
 
 ---
 
-## 📁 Project Structure
-
-
----
 
 ## ✨ How It Works
 
@@ -51,18 +47,6 @@ Wanna tweak it? Go wild:
 - Add your own keywords in `content.js`
 - Customize with a popup to toggle filters
 - Add Pomodoro timers or blocklists for turbo focus mode
-
----
-
-## 🙏 Credits
-
-Built with 💖 by [your name or handle] — stay focused, stay coding.
-
----
-
-## 📬 Want more tools like this?
-
-Slide into my inbox or DM me for more dev-focused hacks & extensions.
 
 ---
 
